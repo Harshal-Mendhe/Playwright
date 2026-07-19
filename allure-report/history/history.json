@@ -1,0 +1,1 @@
+{"24854c8884835a3b2058cfb1121abf6a:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"d5c5d3085098a1ba","reportUrl":"http://localhost:8080/job/newPlay/6/allure/#testresult/d5c5d3085098a1ba","status":"passed","time":{"start":1784442191992,"stop":1784442278868,"duration":86876}}]}}
